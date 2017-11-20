@@ -16,7 +16,7 @@ body {
   padding-bottom: 105px;
 }
 .header {
-    
+    font-family: 'Lato', sans-serif;
     padding-top: 70px;
     margin-left: 120px;; 
 }
@@ -95,10 +95,6 @@ body {
    top: 105px;
     width: 1400px;
   margin: auto;
-
-    
-    
-
 }
 
 .cv-footer__text {
@@ -107,6 +103,41 @@ body {
     padding-left: 41.5%;
     padding-right: 41.5%;
     color: #4a569a;
+    
+}
+#submit {
+     background: #fff;
+    
+}
+#submit:hover{
+    border: 2px solid #f1f1f1;
+    
+}
+#submit:active{
+    border: 2px solid #7d89cd;
+    
+}
+
+#date:active{
+  border: 3px solid #5c6bc0;
+}
+    
+
+#first-name:active{
+  border: 3px solid #5c6bc0;
+}
+
+#second-name:active{
+  border: 3px solid #5c6bc0;
+    
+}
+
+#e-mail:active{
+  border: 3px solid #5c6bc0;
+}
+
+#phone:active{
+  border: 3px solid #5c6bc0;
     
 }
 
